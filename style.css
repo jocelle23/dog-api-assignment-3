@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+  }
+  
+body {
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+h1 {
+    font-family: Tahoma, sans-serif;
+    font-size: 36px;
+}
+
+h2 {
+    font-family: Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+p {
+    font-size: 26px;
+    font-family: Geneva, Tahoma, sans-serif;
+}
+
+img {
+    max-width: 500px;
+}
+
+.center {
+    text-align: center;
+}
+
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+}
+  
+.hidden {
+    display: none;
+}
+  
